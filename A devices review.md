@@ -20,7 +20,7 @@ neuromotor disorders could access computer software such as reviewed in the next
 
   * [Pal Pad](http://www.infogrip.com/products/switches/wired-switches/pal-pad.html)
   
-  * [Mount controlled] (http://www.infogrip.com/products/mice/mouth-controlled/)
+  * [Mouth controlled] (http://www.infogrip.com/products/mice/mouth-controlled/)
   
 ## Mounting devices
 
