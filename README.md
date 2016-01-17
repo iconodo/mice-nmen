@@ -6,7 +6,7 @@ theoretical interfaces/remedies schemes for handicaps/ailments
 ## I.- ... of men and mice
 ### Defining theoretical steps/probabilities towards:
 
-1. A Brain-left mouse click interruption interface
+1. [A Brain-left mouse click interruption interface](https://github.com/iconodo/mice-nmen/blob/master/Adaptive%20techs)
 
     * Light opto/sensoring device
     
