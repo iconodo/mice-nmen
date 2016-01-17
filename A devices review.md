@@ -1,13 +1,11 @@
 The aim of my quests is to achieve a "left click" interrupt in adapted computer mouses, so persons with CP and some other 
 neuromotor disorders could access computer software as described in the next links:
 
-This is [CrossScanner](http://www.rjcooper.com/cross-scanner/) 
+[CrossScanner](http://www.rjcooper.com/cross-scanner/) 
 
 [OnScreen] (http://www.rjcooper.com/onscreen/index.html)
 
 [Scan Buddy] (http://www.infogrip.com/products/switches/scanning-software/scan-buddy.html)
-
-[Switch Resources] (https://assistivetechaiu.wikispaces.com/Switch-Accessible+Resources)
 
 [View] (http://www.asl-inc.com/)
 
@@ -22,3 +20,5 @@ This is [CrossScanner](http://www.rjcooper.com/cross-scanner/)
   * [Mount controlled] (http://www.infogrip.com/products/mice/mouth-controlled/)
 
 [Mounting system] (http://www.infogrip.com/products/mounts/universal-switch-mounting-system.html)
+
+[Switch Resources] (https://assistivetechaiu.wikispaces.com/Switch-Accessible+Resources)
