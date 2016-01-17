@@ -1,9 +1,9 @@
 # A devices review...
 
-... covers some of market available devices that can be used by people with handicaps such that allow them poor to good/excellent usability. Some grades of Cerebral Palsy/other ailments make this devices a very difficult/imopractical effort to satisfaction ratio.
+... covers some of market available devices that can be used by people with handicaps such that allow them poor to good/excellent usability. Some grades of Cerebral Palsy/other ailments make these devices too difficult or impractical for an acceptable satisfaction ratio.
 
 The aim of my quests is to achieve a "left click" interrupt in adapted computer mouses, so persons with severe CP and some other 
-neuromotor disorders could access computer software such as reviewed in the next links, BUT by alternative means to those of the devices described below:
+neuromotor disorders could access computer software such as reviewed in the next links... BUT by alternative means to those pointed below:
 
 ## Software
  * [CrossScanner](http://www.rjcooper.com/cross-scanner/) 
