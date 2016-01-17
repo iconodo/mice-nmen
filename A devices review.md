@@ -3,7 +3,7 @@
 ... covers some of market available devices that can be used by people with handicaps such that allow them poor to good/excellent usability. Some grades of Cerebral Palsy/other ailments make these devices too difficult or impractical for an acceptable satisfaction ratio.
 
 The aim of my quests is to achieve a "left click" interrupt in adapted computer mouses, so persons with severe CP and some other 
-neuromotor disorders could access computer software such as reviewed in the next links... BUT by alternative means to those pointed below:
+neuromotor disorders could access computer software such as reviewed in the next links... BUT the quest is for means alternative to those pointed below:
 
 ## Software
  * [CrossScanner](http://www.rjcooper.com/cross-scanner/) 
@@ -24,11 +24,11 @@ neuromotor disorders could access computer software such as reviewed in the next
   
 ## Mounting devices
 
-  *[Mounting system] (http://www.infogrip.com/products/mounts/universal-switch-mounting-system.html)
+ * [Mounting system] (http://www.infogrip.com/products/mounts/universal-switch-mounting-system.html)
 
 ## Resources hubs
 
- *[Switch Resources] (https://assistivetechaiu.wikispaces.com/Switch-Accessible+Resources)
+ * [Switch Resources] (https://assistivetechaiu.wikispaces.com/Switch-Accessible+Resources)
 
- *[Adaptive Switch Laboratories] (http://www.asl-inc.com/)
+ * [Adaptive Switch Laboratories] (http://www.asl-inc.com/)
 
