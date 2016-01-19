@@ -1,3 +1,26 @@
 Jonathan Brown on [El Greco](https://en.wikipedia.org/wiki/El_Greco): 
                      
-  "each figure seems to carry its own light within or reflects the light that emanates from an unseen source".
+*"each figure seems to carry its own light within or reflects the light that emanates from an unseen source".*
+  
+Clovio reports visiting El Greco on a summer's day while the artist was still in Rome. El Greco was sitting in a darkened room, because he found the darkness more conducive to thought than the light of the day, which disturbed his *`"inner light"`*  
+
+## Emerging tecnology ##
+
+  * Light `through/from` the brain 
+      
+      * [Brigh light transmits through the brain](http://www.scirp.org/journal/PaperInformation.aspx?PaperID=27901)
+    
+      * [Emission of Biophotons and Neural Activity of the Brain -- arxived at Cornell](http://arxiv.org/abs/1012.3371v3)
+          
+      * [Emission of Biophotons... reviewed at technologyreview dot com](http://www.technologyreview.com/view/422069/the-puzzling-role-of-biophotons-in-the-brain/)
+
+  * "Catching the Light"
+  
+      * [Excitation of Plasmonic Waves in Graphene by Guided-Mode Resonances](http://www.ece.rice.edu/ece/xugroup/Papers/Excitation%20of%20Plasmonic%20Waves%20in%20Graphene%20by%20Guided-Mode%20Resonances.pdf
+)
+
+      * [Near Infrared-II Imaging, Plasmonic Platforms, Graphene Nanoribbons & Novel Materials for Energy
+](http://dailab.stanford.edu/2013%2007%20Dai%20Group%20Research.pdf
+)
+
+    
