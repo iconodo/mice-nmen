@@ -12,7 +12,7 @@ theoretical interfaces/remedies schemes for handicaps/ailments
     
                VS
                
-    * A Skin galvanometric electrode sensoring device
+    * [A Skin galvanometric electrode sensoring device](https://github.com/iconodo/mice-nmen/blob/master/Chicken%20skin%20probing.md)
     
 2. Solving a FA (FriedReich's Ataxia) dilemma
 
