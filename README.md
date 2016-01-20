@@ -8,11 +8,11 @@ theoretical interfaces/remedies schemes for handicaps/ailments
 
 1. [A Brain-left mouse click interruption interface - click for actual mechanical adaptive technologies](https://github.com/iconodo/mice-nmen/blob/master/A%20devices%20review.md)
 
-    * [Light opto/sensoring device] (https://github.com/iconodo/mice-nmen/blob/master/Inner%20and%20Outer%20Light.md)
+    * [A Light opto/sensoring device] (https://github.com/iconodo/mice-nmen/blob/master/Inner%20and%20Outer%20Light.md)
     
                VS
                
-    * Skin galvanometric electrode sensoring device
+    * A Skin galvanometric electrode sensoring device
     
 2. Solving a FA (FriedReich's Ataxia) dilemma
 
