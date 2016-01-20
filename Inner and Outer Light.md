@@ -29,9 +29,8 @@ Clovio reports visiting El Greco on a summer's day while the artist was still in
   
   * "Shine your Light on me... not yet whatsoever?"
   
+    * 
   
 
-
-
   
-(*) [*`Catching the Light: The Entwined History of Light and Mind`* -- by Arthur Zajonc](http://www.amazon.es/Catching-Light-Entwined-History-Mind/dp/0195095758) triggered my desire for seeking a brain-computer  interface for handicapped   
+(*) [*`Catching the Light: The Entwined History of Light and Mind`* -- by Arthur Zajonc](http://www.amazon.es/Catching-Light-Entwined-History-Mind/dp/0195095758) helped me deciding to formally look for a light-based brain-computer interface for handicapped; but wouldn't mind any other feasible solution, "I can wait in darkness for any inner light, but better doing it after solving this puzzle"    
