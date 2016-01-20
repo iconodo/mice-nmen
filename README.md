@@ -16,10 +16,10 @@ theoretical interfaces/remedies schemes for handicaps/ailments
     
 2. Solving a FA (FriedReich's Ataxia) dilemma
 
-   * Virus vectoring of Frataxin protein synthesis message
+   * Virus vectoring of Frataxin protein synthesis message... things you try first on lab transgenic mice
    
                 VS
    
-   * Human recombinant frataxin infiltration at spinal ganglia 
+   * Human recombinant frataxin infiltration at spinal ganglia... things not even the people with FA think are worth to try 
      
 ## II.- ... of heaven and earth
