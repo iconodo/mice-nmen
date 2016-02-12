@@ -1,5 +1,5 @@
 # mice-nmen
-theoretical interfaces/remedies schemes for disabilities/ailments
+theoretical interfaces/remedies outlines for disabilities/ailments
 
 # Light-R(?) interfaces
 
