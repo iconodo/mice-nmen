@@ -6,8 +6,14 @@ The aim of my quests is to achieve a "left click" interrupt in adapted computer 
 neuromotor disorders could access computer software such as reviewed in the next links... BUT the quest is for means alternative to those pointed below the Software three links... (in order to be able to use those softwares)
 
 ## Software
- * [CrossScanner](http://www.rjcooper.com/cross-scanner/) 
-
+ * [CrossScanner](http://www.rjcooper.com/cross-scanner/)
+ 
+   * [In action... Diego](https://www.youtube.com/watch?v=nxuJVxvA_Lw)
+   
+ * [SwitchXS](https://www.assistiveware.com/product/switchxs)
+ 
+   * [In action... Jared (min. 1:40+)](https://www.youtube.com/watch?v=Bhj5vs9P5cw) 
+ 
  * [OnScreen] (http://www.rjcooper.com/onscreen/index.html)
 
  * [Scan Buddy] (http://www.infogrip.com/products/switches/scanning-software/scan-buddy.html)
