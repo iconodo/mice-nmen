@@ -12,3 +12,6 @@
  
   *  [Univ. Ranom Llull (Barcelona) Scalextric project](http://www.lavanguardia.com/vida/20150907/54436320350/desarrollan-un-proyecto-que-permite-mover-coches-de-scalextric-con-la-mente.html)
  
+## Encephalogram waves detection (Yes for (some of?) us!) ##
+
+ * [controlbionics.com - NeuroSwitch](https://www.youtube.com/watch?v=GPhTIsNM9MQ)
