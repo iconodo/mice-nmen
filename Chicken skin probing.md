@@ -6,12 +6,15 @@
     
     * [... and in commerce](http://www.amazon.com/Advanced-Diagnostics-Metatron-Bioresonance-Medicomat-39/dp/B00WTGKU8U)
 
-## Encephalogram waves detection (not for us?) ##
+## EEG - (Electro_Encephalo_gram signals detection) (not for us?) ##
 
  * __NeuroHeadSet / mobile phone interfacing__
  
   *  [Univ. Ranom Llull (Barcelona) Scalextric project](http://www.lavanguardia.com/vida/20150907/54436320350/desarrollan-un-proyecto-que-permite-mover-coches-de-scalextric-con-la-mente.html)
  
-## Encephalogram waves detection (Yes for (some of?) us!) ##
+## EMG - (Electro_Mio_gram signals detection) (Yes for (some of?) us!) ##
+        ### It seems this is it!! ...question arises when money is scarce: would [NeuroEducator's Accesories](http://www.musclepower.com/pdf/NE4%20Accessories.pdf) suffice for a simple mouse left click interrupt? ###  
 
  * [controlbionics.com - NeuroSwitch](https://www.youtube.com/watch?v=GPhTIsNM9MQ)
+ 
+ * [NeuroEducator --scroll down @musclepower.com](http://www.musclepower.com/prodall.htm)  
