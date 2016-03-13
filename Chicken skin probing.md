@@ -15,9 +15,9 @@
 ## 3.- EMG - (Electro_Mio_gram signals detection) (Yes for (some of?) us!) ##
 
     It seems this is it!! 
-    question arises when money is scarce: would 
+    question arises when money is scarce: would (whole product last detailed/linnked) 
    
- linked below [NeuroEducator's Accesories](http://www.musclepower.com/pdf/NE4%20Accessories.pdf)  
+ [NeuroEducator's Accesories](http://www.musclepower.com/pdf/NE4%20Accessories.pdf)  
 
     suffice for a simple mouse left click interrupt?  
 
