@@ -15,7 +15,7 @@
 ## 3.- EMG - (Electro_Mio_gram signals detection) (Yes for (some of?) us!) ##
 
     It seems this is it!! 
-    question arises when money is scarce: would (whole product last detailed/linnked) 
+    question arises when money is scarce: would (whole product last detailed/linked) 
    
  [NeuroEducator's Accesories](http://www.musclepower.com/pdf/NE4%20Accessories.pdf)  
 
