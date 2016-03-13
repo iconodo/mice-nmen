@@ -21,6 +21,6 @@
 
     suffice for a simple mouse left click interrupt?  
 
- * [controlbionics.com - NeuroSwitch](https://www.youtube.com/watch?v=GPhTIsNM9MQ) --whole accessibility system
+ * [controlbionics.com - NeuroSwitch](https://www.youtube.com/watch?v=GPhTIsNM9MQ) --whole accessibility system.
  
- * [NeuroEducator --scroll down @musclepower.com](http://www.musclepower.com/prodall.htm) --troke (et al) treatment, etc.  
+ * [NeuroEducator --scroll down @musclepower.com](http://www.musclepower.com/prodall.htm) --stroke (et al) treatment, etc.  
