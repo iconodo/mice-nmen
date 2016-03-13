@@ -17,7 +17,7 @@
     It seems this is it!! 
     question arises when money is scarce: would 
    
- [NeuroEducator's Accesories](http://www.musclepower.com/pdf/NE4%20Accessories.pdf) 
+ linked below [NeuroEducator's Accesories](http://www.musclepower.com/pdf/NE4%20Accessories.pdf)  
 
     suffice for a simple mouse left click interrupt?  
 
