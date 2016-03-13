@@ -13,7 +13,9 @@
   *  [Univ. Ranom Llull (Barcelona) Scalextric project](http://www.lavanguardia.com/vida/20150907/54436320350/desarrollan-un-proyecto-que-permite-mover-coches-de-scalextric-con-la-mente.html)
  
 ## EMG - (Electro_Mio_gram signals detection) (Yes for (some of?) us!) ##
-        ### It seems this is it!! ...question arises when money is scarce: would [NeuroEducator's Accesories](http://www.musclepower.com/pdf/NE4%20Accessories.pdf) suffice for a simple mouse left click interrupt? ###  
+        ### It seems this is it!! ### 
+        ###...question arises when money is scarce:###
+        would [NeuroEducator's Accesories](http://www.musclepower.com/pdf/NE4%20Accessories.pdf) suffice for a simple mouse left click interrupt? ###  
 
  * [controlbionics.com - NeuroSwitch](https://www.youtube.com/watch?v=GPhTIsNM9MQ)
  
