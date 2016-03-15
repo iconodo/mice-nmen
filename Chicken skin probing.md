@@ -15,12 +15,15 @@
 ## 3.- EMG - (Electro_Mio_gram signals detection) (Yes for (some of?) us!) ##
 
     It seems this is it!! 
-    question arises when money is scarce: would (whole product last detailed/linked) 
+    question arises if money is scarce: 
+              would 
+    [(whole product detailed here)](http://www.musclepower.com/prodall.htm) 
    
  [NeuroEducator's Accesories](http://www.musclepower.com/pdf/NE4%20Accessories.pdf)  
 
-    suffice for a simple mouse left click interrupt?  
+    suffice for a simple mouse 
+       left click interrupt?  
 
- * [controlbionics.com - NeuroSwitch](https://www.youtube.com/watch?v=GPhTIsNM9MQ) --whole accessibility system.
+ * [controlbionics.com - NeuroSwitch](https://www.youtube.com/watch?v=GPhTIsNM9MQ) --whole accessibility system MEETS OUR NEEDS and much more!!
  
  * [NeuroEducator --scroll down @musclepower.com](http://www.musclepower.com/prodall.htm) --stroke (et al) treatment, etc.  
