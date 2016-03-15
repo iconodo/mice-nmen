@@ -1,4 +1,4 @@
-## 1.- BioResonance ##
+## 1.- BioResonance (far from us?)##
 
   * __Metatron Bioresonance NLS Health Diagnostics and Therapy Systems__
   
