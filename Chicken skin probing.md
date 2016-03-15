@@ -14,7 +14,7 @@
  
 ## 3.- EMG - (Electro_Mio_gram signals detection) (Yes for (some of?) us!) ##
 
- * [controlbionics.com - NeuroSwitch](https://www.youtube.com/watch?v=GPhTIsNM9MQ) --NeuroEducator embeddedn whole accessibility system MEETS OUR NEEDS and much more!!
+ * [controlbionics.com - NeuroSwitch](https://www.youtube.com/watch?v=GPhTIsNM9MQ) --__NeuroEducator embedded__ whole accessibility system MEETS OUR NEEDS and much more!!
  
  * [NeuroEducator --scroll down @musclepower.com](http://www.musclepower.com/prodall.htm) --stroke (et al) treatment, etc.  
 
