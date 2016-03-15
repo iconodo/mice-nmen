@@ -6,7 +6,7 @@ theoretical interfaces/remedies outlines for disabilities/ailments
 ## I.- ... of men and mice
 ### Defining theoretical steps/probabilities towards:
 
-1. `A Brain->left_mouse-click_interrupt interface` - universal substitute for [actual assistive technologies](https://github.com/iconodo/mice-nmen/blob/master/A%20devices%20review.md)
+1. `A Brain->left_mouse-click_interrupt interface` - encompass or substitute? [actual assistive technologies](https://github.com/iconodo/mice-nmen/blob/master/A%20devices%20review.md)
 
     * [A Light opto/sensoring device] (https://github.com/iconodo/mice-nmen/blob/master/Inner%20and%20Outer%20Light.md)
     
