@@ -17,7 +17,7 @@
     It seems this is it!! 
     question arises if money is scarce: 
               would 
-    [(whole product detailed here)](http://www.musclepower.com/prodall.htm) 
+    [whole product detailed here](http://www.musclepower.com/prodall.htm) 
    
  [NeuroEducator's Accesories](http://www.musclepower.com/pdf/NE4%20Accessories.pdf)  
 
