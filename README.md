@@ -27,12 +27,19 @@ theoretical interfaces/remedies outlines for disabilities/ailments
 
 3. `Heaven... I'm in heaven` - beyond severe "sight damaging"... and the `actual "cars not so sexy anymore" cause they all look like the "toys" depicted in` [Short History of RMI HyperCars](http://www.autoblog.com/2007/01/05/a-short-history-of-the-rmi-hypercar-ultralight-vehicle-concept/)
 
-    * RMI's credo's fragment in [Hypercar® Vehicles
+    * RMI's credo's fragment `Would there be tradeoffs in performance or styling?
+The fundamental thesis underlying the Hypercar® concept is that high fuel efficiency and low emissions
+can be achieved without compromising the car's marketable features (such as performance) and without
+imposing burdensome constraints on its body styling. RMI bases its fuel-efficiency modeling on a vehicle
+that would perform equivalently to, or better than, a current five-to-six-passenger touring-class sedan, such
+as the full-featured versions of the Ford Taurus, Chevrolet Lumina, or Chrysler Concorde.
+While some changes would be required to improve aerodynamics, the body designer would still have
+significant stylistic freedom.` in [Hypercar® Vehicles
 Frequently Asked Questions (FAQs)] (https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&ved=0ahUKEwixkaKK8cfLAhWLdz4KHZniDEA4ChAWCC4wAg&url=http%3A%2F%2Fwww.rmi.org%2Fcms%2FDownload.aspx%3Fid%3D4987%26file%3DT97-04_HypercarsFAQs.pdf%26title%3DHypercars%253A%2BFAQ&usg=AFQjCNGuGCN6Z0iuZZvqjyNvwvZwKXtkWw&bvm=bv.117218890,d.dmo&cad=rja)
     
                VS?
                
-    * RMI's HyperCar in EU's phenomenology [Living systems, ‘total design’ and the evolution
+    * RMI's HyperCar track in EU's phenomenology: [Living systems, ‘total design’ and the evolution
 of the automobile: the significance and application
 of holistic design methods in automotive design,
 manufacture and operation - Chapter 13 of 'Design and Information in Biology' Edited By: J.A. BRYANT, University of Exeter, United Kingdom, M.A. Atherton ad M.W. Collins, Brunel University, United Kingdom
