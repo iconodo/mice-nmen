@@ -12,9 +12,9 @@ theoretical interfaces/remedies outlines for disabilities/ailments
     
                VS
                
-    * [A Skin galvanometric electrode sensoring device... +found solution already in the market ](https://github.com/iconodo/mice-nmen/blob/master/Chicken%20skin%20probing.md)
+    * [A Skin galvanometric electrode sensoring device... +found solution already in the market? ](https://github.com/iconodo/mice-nmen/blob/master/Chicken%20skin%20probing.md)
     
-2. `Solving a FA (FriedReich's Ataxia) infiltrative solution dilemma`
+2. `The intricacies of FA (FriedReich's Ataxia) infiltrative solution dilemma`
 
    * Virus vectoring of Frataxin protein synthesis message... things you try first on lab transgenic mice
    
@@ -23,3 +23,10 @@ theoretical interfaces/remedies outlines for disabilities/ailments
    * Human recombinant frataxin... a substance struggling to get out of the labs in healing form  
      
 ## II.- `... of heaven and earth`
+### Or how to avoid forcing the desired caravan of solutions camel into the needle of sciences-religions dialogues:
+
+3. `Heaven... I'm in heaven` - beyond severe "sight damaging"... and the `actual "cars not so sexy anymore" cause they all look the "toys" depicted in` [Short History of RMI HyperCars](http://www.autoblog.com/2007/01/05/a-short-history-of-the-rmi-hypercar-ultralight-vehicle-concept/)
+
+
+
+
