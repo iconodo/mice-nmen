@@ -14,7 +14,7 @@ I.1. `A Brain->left_mouse-click_interrupt interface` - beyond severe spasticity.
                VS
                
    
-* `FOUND - A solution already in the maket`
+* `+ FOUND - With a solution already in the maket`
 [Skin galvanometric electrode sensoring device](https://github.com/iconodo/mice-nmen/blob/master/Chicken%20skin%20probing.md)
     
 I.2. `The intricacies of FA (FriedReich's Ataxia) infiltrative solutions dilemma`
