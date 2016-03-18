@@ -8,11 +8,11 @@ theoretical interfaces/remedies outlines for disabilities/ailments
 
 I.1. `A Brain->left_mouse-click_interrupt interface` - beyond severe spasticity... and the [actual assistive technologies](https://github.com/iconodo/mice-nmen/blob/master/A%20devices%20review.md)
 
-    * [A future Light opto/sensoring device - LOST for the disabilities market?] (https://github.com/iconodo/mice-nmen/blob/master/Inner%20and%20Outer%20Light.md)
+    * [A future Light opto/sensoring device](https://github.com/iconodo/mice-nmen/blob/master/Inner%20and%20Outer%20Light.md)
     
                VS
                
-    * [A Skin galvanometric electrode sensoring device + FOUND solution already in the market? ](https://github.com/iconodo/mice-nmen/blob/master/Chicken%20skin%20probing.md)
+    * [A Skin galvanometric electrode sensoring device + FOUND solution already in the market?](https://github.com/iconodo/mice-nmen/blob/master/Chicken%20skin%20probing.md)
     
 I.2. `The intricacies of FA (FriedReich's Ataxia) infiltrative solutions dilemma`
 
