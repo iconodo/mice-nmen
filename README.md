@@ -6,7 +6,7 @@ theoretical interfaces/remedies outlines for disabilities/ailments
 ## I.- ... of men and mice
 ### Stairs towards:
 
-1. `A Brain->left_mouse-click_interrupt interface` - beyond severe spasticity... and the [actual assistive technologies](https://github.com/iconodo/mice-nmen/blob/master/A%20devices%20review.md)
+I.1. `A Brain->left_mouse-click_interrupt interface` - beyond severe spasticity... and the [actual assistive technologies](https://github.com/iconodo/mice-nmen/blob/master/A%20devices%20review.md)
 
     * [A future Light opto/sensoring device... LOST for the disabilities market?] (https://github.com/iconodo/mice-nmen/blob/master/Inner%20and%20Outer%20Light.md)
     
@@ -14,7 +14,7 @@ theoretical interfaces/remedies outlines for disabilities/ailments
                
     * [A Skin galvanometric electrode sensoring device... +FOUND solution already in the market? ](https://github.com/iconodo/mice-nmen/blob/master/Chicken%20skin%20probing.md)
     
-2. `The intricacies of FA (FriedReich's Ataxia) infiltrative solutions dilemma`
+I.2. `The intricacies of FA (FriedReich's Ataxia) infiltrative solutions dilemma`
 
    * Virus vectoring of Frataxin protein synthesis message... things you try first on lab transgenic mice
    
@@ -25,7 +25,7 @@ theoretical interfaces/remedies outlines for disabilities/ailments
 ## II.- `... of heaven and earth`
 ### Or how to avoid forcing the desired caravan of solutions camel into the needle of sciences-religions dialogues:
 
-1. `Heaven... I'm in heaven` - beyond severe "sight damaging"... and the `actual "cars not so sexy anymore" cause they all look like the "toys" depicted in` [Short History of RMI HyperCars](http://www.autoblog.com/2007/01/05/a-short-history-of-the-rmi-hypercar-ultralight-vehicle-concept/)
+II.1. `Heaven... I'm in heaven` - beyond severe "sight damaging"... and the `actual "cars not so sexy anymore" cause they all look like the "toys" depicted in` [Short History of RMI HyperCars](http://www.autoblog.com/2007/01/05/a-short-history-of-the-rmi-hypercar-ultralight-vehicle-concept/)
 
     * RMI's credo's fragment: `Would there be tradeoffs in performance or styling?
 The fundamental thesis underlying the Hypercar® concept is that high fuel efficiency and low emissions
@@ -48,4 +48,4 @@ manufacture and operation - Chapter 13 of 'Design and Information in Biology' Ed
 ### Yes!!... this is Heaven!!
 We only have to use the 'total design' approach of RMI's hypercar, describe/outline our solution, convince the Academia/Enterprises and sooner or later we'll be seeing one after the other the very best cost/efective `similar` solutions parading on our town streets :) 
 
-4. `Heaven down on Earth` - beyond  `We have a habit in writing articles published in scientific journals to make the work as finished as possible, to cover all the tracks, to not worry about the blind alleys or to describe how you had the wrong idea first, and so on. So there isn't any place to publish, in a dignified manner, what you actually did in order to get to do the work, although, there has been in these days, some interest in this kind of thing.` first phrases of [Richard Feynman's Nobel Lecture](http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html)
+II.2. `Heaven down on Earth` - beyond  `We have a habit in writing articles published in scientific journals to make the work as finished as possible, to cover all the tracks, to not worry about the blind alleys or to describe how you had the wrong idea first, and so on. So there isn't any place to publish, in a dignified manner, what you actually did in order to get to do the work, although, there has been in these days, some interest in this kind of thing.` first phrases of [Richard Feynman's Nobel Lecture](http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html)
