@@ -25,9 +25,9 @@ theoretical interfaces/remedies outlines for disabilities/ailments
 ## II.- `... of heaven and earth`
 ### Or how to avoid forcing the desired caravan of solutions camel into the needle of sciences-religions dialogues:
 
-3. `Heaven... I'm in heaven` - beyond severe "sight damaging"... and the `actual "cars not so sexy anymore" cause they all look like the "toys" depicted in` [Short History of RMI HyperCars](http://www.autoblog.com/2007/01/05/a-short-history-of-the-rmi-hypercar-ultralight-vehicle-concept/)
+1. `Heaven... I'm in heaven` - beyond severe "sight damaging"... and the `actual "cars not so sexy anymore" cause they all look like the "toys" depicted in` [Short History of RMI HyperCars](http://www.autoblog.com/2007/01/05/a-short-history-of-the-rmi-hypercar-ultralight-vehicle-concept/)
 
-    * RMI's credo's fragment `Would there be tradeoffs in performance or styling?
+    * RMI's credo's fragment: `Would there be tradeoffs in performance or styling?
 The fundamental thesis underlying the Hypercar® concept is that high fuel efficiency and low emissions
 can be achieved without compromising the car's marketable features (such as performance) and without
 imposing burdensome constraints on its body styling. RMI bases its fuel-efficiency modeling on a vehicle
@@ -46,4 +46,4 @@ manufacture and operation - Chapter 13 of 'Design and Information in Biology' Ed
 ](http://www.witpress.com/Secure/elibrary/papers/9781853128530/9781853128530013FU1.pdf)
 
 ### Yes!!... this is Heaven!!
-We only have to use the 'total design' approach of RMI's hypercar, describe/outline our solution, convince the Academia/Enterprises and sooner or later we'll be seeing one after the other the very best cost/efective similar solutions parading on our town streets :) 
+We only have to use the 'total design' approach of RMI's hypercar, describe/outline our solution, convince the Academia/Enterprises and sooner or later we'll be seeing one after the other the very best cost/efective `similar` solutions parading on our town streets :) 
