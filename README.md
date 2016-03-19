@@ -1,5 +1,5 @@
 # mice-nmen
-theoretical interfaces/remedies outlines for disabilities/ailments
+interfaces/remedies intents for 2 disabilities/ailments
 
 # Light-R(d?) interfaces
 
@@ -26,9 +26,9 @@ I.2. `The intricacies of FA (FriedReich's Ataxia) infiltrative solutions dilemma
    * Human recombinant frataxin... a substance struggling to get out of the labs in healing form  
      
 ## II.- `... of heaven and earth`
-### Or how to avoid forcing the desired caravan of solutions camel into the needle of sciences-religions dialogues:
+### Or how to avoid forcing the desired caravan of solutions camel into the needle eye of sciences-religions dialogues:
 
-II.1. `Heaven... I'm in heaven` - beyond severe "sight damaging"... and the `actual "cars not so sexy anymore" cause they all look like the "toys" depicted in` [Short History of RMI HyperCars](http://www.autoblog.com/2007/01/05/a-short-history-of-the-rmi-hypercar-ultralight-vehicle-concept/)
+II.1. `Heaven... I'm in heaven` - beyond "severe sight damaging"... and the `actual "cars not so sexy anymore" cause they all look like the "toys" depicted in` [Short History of RMI HyperCars](http://www.autoblog.com/2007/01/05/a-short-history-of-the-rmi-hypercar-ultralight-vehicle-concept/)
 
     * RMI's credo's fragment in FAQ: 
     
@@ -54,8 +54,10 @@ of holistic design methods in automotive design,
 manufacture and operation](http://www.witpress.com/Secure/elibrary/papers/9781853128530/9781853128530013FU1.pdf)
 
 ### Yes!!... this is Heaven!!
-We only have to use the 'total design' approach of RMI's hypercar, describe/outline our solution, convince the Academia/Enterprises and sooner or later we'll be seeing one after the other the very best cost/efective `similar` solutions parading on our town streets :) 
+We only have to adapt the 'total design' approach of RMI's hypercar, describe/outline our solutions, convince the Academia/Enterprises and sooner or later we'll be seeing one after the other the very best cost/efective `similar` solutions parading down our town streets :) 
 
 II.2. `Heaven down on Earth` - beyond  `We have a habit in writing articles published in scientific journals to make the work as finished as possible, to cover all the tracks, to not worry about the blind alleys or to describe how you had the wrong idea first, and so on. So there isn't any place to publish, in a dignified manner, what you actually did in order to get to do the work, although, there has been in these days, some interest in this kind of thing.` first phrases of [Richard Feynman's Nobel Lecture](http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html)
 
-***If GitHub (have you read the 'commits' of this site?) is no what Feynman was trying to figure out, we --besides lacking every sort of 'code writing' here-- have missed another shot... no news at all.
+***If GitHub is the place to meet Feynman's idea, how many of this site  'commits' will meet our needs:
+
+II.3 Click here to push ideas on [_Assistive Technology beyond severe spasticity_]() and/or click here to push ideas on [_FriedReich Ataxia_](). My intution tells me that solutions based in photonics might transduce the necessary protein Frataxin synthesis message...  
