@@ -60,6 +60,6 @@ II.2. `Heaven down on Earth` - beyond  `We have a habit in writing articles publ
 
 ***If GitHub is the place to meet Feynman's idea, how many of this site  'commits' will meet our needs:
 
-II.3 Click here to push ideas on [_Assistive Technology beyond severe spasticity_]() and/or click here to push ideas on [_FriedReich Ataxia_](). 
+II.3 Click here to push ideas on [_Assistive Technology beyond severe spasticity_](https://github.com/iconodo/mice-nmen/blob/master/beyondSpasms.md) and/or click here to push ideas on [_FriedReich Ataxia_](https://github.com/iconodo/mice-nmen/blob/master/beyondFA.md). 
 
 My intution tells me that solutions based in photonics, after/before achieving a `left mouse click interrupt` might also be able to send a transducible protein Frataxin synthesis message welcomed by mithocondrias...  
