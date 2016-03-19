@@ -32,8 +32,8 @@ II.1. `Heaven... I'm in heaven` - beyond severe "sight damaging"... and the `act
 
     * RMI's credo's fragment in FAQ: 
     
-`_Would there be tradeoffs in performance or styling?_
-The fundamental thesis underlying the Hypercar® concept is that high fuel efficiency and low emissions
+_Would there be tradeoffs in performance or styling?_
+`The fundamental thesis underlying the Hypercar® concept is that high fuel efficiency and low emissions
 can be achieved without compromising the car's marketable features (such as performance) and without
 imposing burdensome constraints on its body styling. RMI bases its fuel-efficiency modeling on a vehicle
 that would perform equivalently to, or better than, a current five-to-six-passenger touring-class sedan, such
