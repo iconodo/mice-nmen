@@ -8,13 +8,13 @@ theoretical interfaces/remedies outlines for disabilities/ailments
 
 I.1. `A Brain->left_mouse-click_interrupt interface` - beyond severe spasticity... and the [actual assistive technologies](https://github.com/iconodo/mice-nmen/blob/master/A%20devices%20review.md)
 
-   * `LOST - A future` 
+   * `LOST - A future?` 
 [Light opto/sensoring device](https://github.com/iconodo/mice-nmen/blob/master/Inner%20and%20Outer%20Light.md)
     
                VS
                
    
-* `+ FOUND - With a solution already in the maket`
+* `+ FOUND - At least an actual solution of`
 [Skin galvanometric electrode sensoring device](https://github.com/iconodo/mice-nmen/blob/master/Chicken%20skin%20probing.md)
     
 I.2. `The intricacies of FA (FriedReich's Ataxia) infiltrative solutions dilemma`
@@ -30,7 +30,9 @@ I.2. `The intricacies of FA (FriedReich's Ataxia) infiltrative solutions dilemma
 
 II.1. `Heaven... I'm in heaven` - beyond severe "sight damaging"... and the `actual "cars not so sexy anymore" cause they all look like the "toys" depicted in` [Short History of RMI HyperCars](http://www.autoblog.com/2007/01/05/a-short-history-of-the-rmi-hypercar-ultralight-vehicle-concept/)
 
-    * RMI's credo's fragment: `Would there be tradeoffs in performance or styling?
+    * RMI's credo's fragment in FAQ: 
+    
+`Would there be tradeoffs in performance or styling?
 The fundamental thesis underlying the Hypercar® concept is that high fuel efficiency and low emissions
 can be achieved without compromising the car's marketable features (such as performance) and without
 imposing burdensome constraints on its body styling. RMI bases its fuel-efficiency modeling on a vehicle
@@ -42,7 +44,9 @@ Frequently Asked Questions (FAQs)] (https://www.google.es/url?sa=t&rct=j&q=&esrc
     
                VS?
                
-    * RMI's HyperCar track in EU's phenomenology: [Living systems, ‘total design’ and the evolution
+    * RMI's HyperCar track in EU's phenomenology: 
+    
+[Living systems, ‘total design’ and the evolution
 of the automobile: the significance and application
 of holistic design methods in automotive design,
 manufacture and operation - Chapter 13 of 'Design and Information in Biology' Edited By: J.A. BRYANT, University of Exeter, United Kingdom, M.A. Atherton ad M.W. Collins, Brunel University, United Kingdom
